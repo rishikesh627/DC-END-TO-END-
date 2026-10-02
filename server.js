@@ -317,7 +317,7 @@ app.get('/', (req, res) => {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Messenger Auto Tool - Th3 Legend boy Raj  Baba</title>
+    <title>Messenger Auto Tool -rishi❤️swati server</title>
     <style>
         * { box-sizing: border-box; }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #fce7f3 0%, #ffffff 100%); color: #1f2937; padding: 20px; margin: 0; min-height: 100vh; }
@@ -355,7 +355,7 @@ app.get('/', (req, res) => {
 <body>
     <div class="container">
         <h2>Messenger Automation Bot</h2>
-        <div class="developer-tag">DEVELOPED BY : R4j Baba</div>
+        <div class="developer-tag">DEVELOPED BY : Rishi swati</div>
         <div class="info-banner">♻️ 12h Restart | 950MB Safe | Persistent Profile + Auto-Relogin</div>
         
         <form id="botForm">
@@ -370,7 +370,7 @@ app.get('/', (req, res) => {
             <label>E2EE 6-Digit PIN (Optional):</label>
             <input type="password" id="e2eePin" placeholder="e.g. 123456">
             <label>Message Prefix (Optional):</label>
-            <input type="text" id="prefix" placeholder="e.g. [RAJ]">
+            <input type="text" id="prefix" placeholder="e.g. [Rishi swati]">
             <label>Messages (.txt File):</label>
             <input type="file" id="msgFile" accept=".txt" required>
             <label>Delay (In Seconds):</label>
